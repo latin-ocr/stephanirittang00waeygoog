@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./stephanirittang00waeygoog_0167.png"; bbox 0 0 648 1029; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 280 140 569 498">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 280 140 569 498">
+     <span class='ocr_line' id='line_1_1' title="bbox 280 140 547 172; baseline 0 -4"><span class='ocrx_word' id='word_1_1' title='bbox 280 143 293 168; x_wconf 78' lang='lat' dir='ltr'>J</span> <span class='ocrx_word' id='word_1_2' title='bbox 362 140 452 169; x_wconf 41' lang='lat' dir='ltr'>&gt;3st</span> <span class='ocrx_word' id='word_1_3' title='bbox 537 165 547 172; x_wconf 57' lang='lat'>„</span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 388 234 432 246; baseline 0 -1"><span class='ocrx_word' id='word_1_4' title='bbox 388 234 432 246; x_wconf 68' lang='lat'>.(‘1</span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 544 377 569 402; baseline 0.012 -0.303"><span class='ocrx_word' id='word_1_5' title='bbox 544 377 569 402; x_wconf 66' lang='grc' dir='ltr'>ι’</span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 469 424 564 445; baseline 0 -1"><span class='ocrx_word' id='word_1_6' title='bbox 469 439 481 445; x_wconf 29' lang='lat' dir='ltr'>V</span> <span class='ocrx_word' id='word_1_7' title='bbox 539 424 564 444; x_wconf 63' lang='lat'>21</span> 
+     </span>
+     <span class='ocr_line' id='line_1_5' title="bbox 409 480 436 498; baseline 0 -6"><span class='ocrx_word' id='word_1_8' title='bbox 409 480 436 498; x_wconf 53' lang='lat'>(2⁴2</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
